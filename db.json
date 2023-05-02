@@ -1,0 +1,19 @@
+{
+    "categories": [
+      {
+        "name": "City Tours",
+        "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+      }
+    ],
+  
+  "offers": [
+    {
+      "id": 1,
+      "name": "hello",
+      "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
